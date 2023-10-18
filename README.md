@@ -1,2 +1,2 @@
 # pythonTimer
-# this project is part of a Python course practice
+# this Timer application is part of a Python course practice
